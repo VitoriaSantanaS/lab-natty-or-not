@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Título do Projeto: HQ "Laços de Sangue"
 
-## 🚀 Introdução
+📒 Descrição
+Este projeto é uma prova de conceito que explora a criação de histórias em quadrinhos utilizando IAs generativas. Com apenas três páginas, o objetivo é mostrar que é possível 
+desenvolver uma narrativa visual rica e envolvente, onde cada painel combina tecnologia e criatividade humana.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+Microsoft Bind para geração dos cenários, personagens e atmosferas.
+ChatGPT para roteiro e descrição detalhada de cada quadro.
+Softwares de edição gráfica para ajustes finais e composição visual.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Uma história curta e impactante que pudesse ser desenvolvida em apenas três páginas, evidenciando o potencial das ferramentas de IA.
+Roteirização Detalhada: Escrever um roteiro dividido em painéis com descrições precisas para cada cena e personagem.
+Geração Visual: Elaborar prompts customizados para capturar a essência da história em imagens.
+Montagem Final: Ajustar e alinhar os painéis com o roteiro, criando uma experiência visual fluida e atraente.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+Três páginas visualmente impressionantes, que combinam storytelling cativante com arte gerada por IA.
+Protagonistas memoráveis e uma ambientação densa que dão vida ao mistério central da narrativa.
+Uma demonstração clara de que a integração entre IAs e criatividade humana pode revolucionar o processo de criação de histórias em quadrinhos.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão (Opcional)
+Limitar o projeto a apenas três páginas foi desafiador, mas também libertador. A experiência reforçou que, mesmo com restrições, é possível criar algo que seja aesthetic e inovador.
+Trabalhar com IA foi como colaborar com um coautor incansável, que amplifica ideias e abre novas possibilidades criativas. Este projeto é apenas o início de um futuro onde arte e 
+tecnologia se fundem em harmonia.
